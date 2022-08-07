@@ -1,4 +1,13 @@
+'''
+Author: [MaxGu]
+Date: 2022-08-07 18:09:45
+LastEditors: [MaxGu]
+LastEditTime: 2022-08-07 21:59:02
+Description:
+'''
 # 类属性可以给这个类中的所有方法所共享，
+
+
 class Game(object):
     num = 0
 # 实例对象的方法需要加self，可自定义名字，但没必要
