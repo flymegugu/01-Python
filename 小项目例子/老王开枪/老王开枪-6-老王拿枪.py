@@ -1,3 +1,10 @@
+'''
+Author: [MaxGu]
+Date: 2022-08-07 18:09:45
+LastEditors: [MaxGu]
+LastEditTime: 2023-01-13 10:41:57
+Description:
+'''
 iclass Person(object):
     '''人类'''
 
@@ -11,6 +18,7 @@ iclass Person(object):
         dan_jia_temp.baocun_zidan(zi_dan_temp)
 
     def anzhuang_danjia(self, gun_temp, dan_jia_temp):
+
         gun_temp.baocun_danjia(dan_jia_temp)
 
     def naqiang(self, gun_temp):
