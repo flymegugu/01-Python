@@ -2,7 +2,7 @@
 Author: [MaxGu]
 Date: 2022-08-07 18:09:45
 LastEditors: [MaxGu]
-LastEditTime: 2022-08-07 21:59:02
+LastEditTime: 2022-08-07 23:09:10
 Description:
 '''
 # 类属性可以给这个类中的所有方法所共享，

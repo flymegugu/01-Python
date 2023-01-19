@@ -1,4 +1,13 @@
+'''
+Author: [MaxGu]
+Date: 2022-08-07 18:09:45
+LastEditors: [MaxGu]
+LastEditTime: 2022-09-20 21:28:24
+Description:
+'''
 # *args可以使传进来得值以元组得方式保存，如果要进行拆包得话，那么可以使用print(*args)
+
+
 def test1(a, *args):
     # 输出第一个参数a
     print(a)
