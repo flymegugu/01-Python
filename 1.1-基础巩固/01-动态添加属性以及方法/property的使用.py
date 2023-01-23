@@ -1,3 +1,10 @@
+'''
+Author: [MaxGu]
+Date: 2022-08-07 18:09:45
+LastEditors: [MaxGu]
+LastEditTime: 2023-01-22 22:18:20
+Description:
+'''
 class Test(object):
     def __init__(self) -> None:
         super().__init__()
@@ -14,4 +21,4 @@ class Test(object):
 
 t = Test()
 t.num = 400
-print(t.getNum())   // TODO 需要补充
+print(t.getNum()) // TODO 随便写的

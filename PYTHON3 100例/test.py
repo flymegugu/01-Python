@@ -2,7 +2,7 @@
 Author: [MaxGu]
 Date: 2022-08-24 22:31:54
 LastEditors: [MaxGu]
-LastEditTime: 2023-01-20 12:49:34
+LastEditTime: 2023-01-23 12:25:49
 Description:
 '''
 
@@ -17,3 +17,5 @@ def pattern(n):
             print("*", end=" ")
         print("\r")
 
+
+pattern(4)
