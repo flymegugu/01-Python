@@ -2,7 +2,7 @@
 Author: [MaxGu]
 Date: 2022-08-07 18:09:45
 LastEditors: [MaxGu]
-LastEditTime: 2023-01-23 20:49:16
+LastEditTime: 2023-01-23 20:54:07
 Description:
 '''
 class Dog:
@@ -17,4 +17,4 @@ class Dog:
 
 dog = Dog('球球',2)
 dog.run()
-dog.speak('旺旺旺')
+dog.speak('旺旺旺') 

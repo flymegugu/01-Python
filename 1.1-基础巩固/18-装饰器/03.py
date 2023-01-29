@@ -1,4 +1,4 @@
-def test(func):
+fdef test(func):
     print("kaishiyanzheng")
 
     def inner():
