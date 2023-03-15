@@ -1,3 +1,9 @@
+'''
+Author: [MaxGu]
+Date: 2022-08-07 18:09:45
+LastEditors: [MaxGu]
+LastEditTime: 2023-02-28 14:17:17
+'''
 class haha(Exception):
     def __init__(self, message):
         super().__init__(message)

@@ -15,4 +15,4 @@ info.sort(key=ke)
 print(info)
 #第二种方法
 info.sort(key = lambda x : x["age"])
-print(info)        
+print(info)

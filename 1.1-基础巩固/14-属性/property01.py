@@ -13,6 +13,7 @@ class Money(object):
             print("error:不是整型数字")
         # 先写get，后写set，只写方法名字
     money = property(getMoney, setMoney)
+    
 
 
 m = Money()

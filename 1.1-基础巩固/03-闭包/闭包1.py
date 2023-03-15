@@ -1,3 +1,12 @@
+'''
+Author: [MaxGu]
+Date: 2022-08-07 18:09:45
+LastEditors: [MaxGu]
+LastEditTime: 2023-03-05 00:32:26
+Description:
+'''
+
+
 def counter():
     cnt = [0]
 
@@ -7,5 +16,6 @@ def counter():
     return add_one
 
 
+num = counter()
 num = counter()
 print(num())

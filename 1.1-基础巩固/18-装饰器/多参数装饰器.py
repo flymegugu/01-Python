@@ -9,7 +9,7 @@ def func(functionName):
     return func_in
 
 
-@func
+@funcjd;fk
 def test(a, b, c):
     print("--test-a=%d,b=%d,c=%d" % (a, b, c))
 

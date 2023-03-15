@@ -1,3 +1,11 @@
+<!--
+ * @Author: [MaxGu]
+ * @Date: 2022-08-07 18:09:45
+ * @LastEditors: [MaxGu]
+ * @LastEditTime: 2023-02-24 13:40:12
+ * @Description:
+-->
+
 1. 当你创建一个对象，那么这个对象会自动执行 init()方法，而这个对象是由 new()方法来创建的
 2. 构造方法包含创建和初始化，但是 python 中有两种，首先 new 然后 init 这是两个独立的
 
@@ -7,12 +15,16 @@
 def __init__(self):
     pass
 ```
+i
 
 #### 删除时候会调用
 
 ```
 def __del__(self):
     pass
+
+
+    as
 ```
 
 #### 当调用 print 打印对象 return 一个结果的时候
